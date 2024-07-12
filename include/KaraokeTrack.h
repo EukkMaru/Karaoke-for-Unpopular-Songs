@@ -1,4 +1,3 @@
-// KaraokeTrack.h
 #pragma once
 #include <string>
 #include <vector>

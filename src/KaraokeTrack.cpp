@@ -14,9 +14,10 @@ void KaraokeTrack::loadFromFile(const std::string& filename) {
     metadata = {
         j["metadata"]["title"],
         j["metadata"]["artist"],
-        j["metadata"]["language"],
-        j["metadata"]["audioFile"]
+        j["metadata"]["language"]
     };
+    std::string directory = filename.substr(0, filename.find_last_of("/\\") + 1);
+    metadata.audioFile = directory + metadata.audioFile;
 
     lyrics.clear();
     for (const auto& lyric : j["lyrics"]) {

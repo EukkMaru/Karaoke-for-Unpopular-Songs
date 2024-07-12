@@ -1,0 +1,150 @@
+{
+    "metadata": {
+      "title": "プロポーズ",
+      "artist": "内緒のピアス",
+      "language": "Japanese",
+      "audioFile": "audio/Propose.mp3"
+    },
+    "lyrics": [
+      {
+        "startTime": 1000,
+        "text": {
+          "original": "さくら ひらひら 舞い落ちて",
+          "pronunciation": "Sakura hirahira mai ochite",
+          "meaning": "Cherry blossoms flutter down"
+        },
+        "syllables": [
+          {
+            "text": "さ",
+            "duration": 250,
+            "noteKey": "C4"
+          },
+          {
+            "text": "く",
+            "duration": 250,
+            "noteKey": "D4"
+          },
+          {
+            "text": "ら",
+            "duration": 250,
+            "noteKey": "E4"
+          },
+          {
+            "text": "ひ",
+            "duration": 250,
+            "noteKey": "F4"
+          },
+          {
+            "text": "ら",
+            "duration": 250,
+            "noteKey": "G4"
+          },
+          {
+            "text": "ひ",
+            "duration": 250,
+            "noteKey": "A4"
+          },
+          {
+            "text": "ら",
+            "duration": 250,
+            "noteKey": "B4"
+          },
+          {
+            "text": "ま",
+            "duration": 250,
+            "noteKey": "C5"
+          },
+          {
+            "text": "い",
+            "duration": 250,
+            "noteKey": "D5"
+          },
+          {
+            "text": "お",
+            "duration": 250,
+            "noteKey": "E5"
+          },
+          {
+            "text": "ち",
+            "duration": 250,
+            "noteKey": "F5"
+          },
+          {
+            "text": "て",
+            "duration": 250,
+            "noteKey": "G5"
+          }
+        ]
+      },
+      {
+        "startTime": 4000,
+        "text": {
+          "original": "君の肩に 受け止めてた",
+          "pronunciation": "Kimi no kata ni uketomete ta",
+          "meaning": "Catching them on your shoulders"
+        },
+        "syllables": [
+          {
+            "text": "き",
+            "duration": 250,
+            "noteKey": "C4"
+          },
+          {
+            "text": "み",
+            "duration": 250,
+            "noteKey": "D4"
+          },
+          {
+            "text": "の",
+            "duration": 250,
+            "noteKey": "E4"
+          },
+          {
+            "text": "か",
+            "duration": 250,
+            "noteKey": "F4"
+          },
+          {
+            "text": "た",
+            "duration": 250,
+            "noteKey": "G4"
+          },
+          {
+            "text": "に",
+            "duration": 250,
+            "noteKey": "A4"
+          },
+          {
+            "text": "う",
+            "duration": 250,
+            "noteKey": "B4"
+          },
+          {
+            "text": "け",
+            "duration": 250,
+            "noteKey": "C5"
+          },
+          {
+            "text": "と",
+            "duration": 250,
+            "noteKey": "D5"
+          },
+          {
+            "text": "め",
+            "duration": 250,
+            "noteKey": "E5"
+          },
+          {
+            "text": "て",
+            "duration": 250,
+            "noteKey": "F5"
+          },
+          {
+            "text": "た",
+            "duration": 250,
+            "noteKey": "G5"
+          }
+        ]
+      }
+    ]
+  }
